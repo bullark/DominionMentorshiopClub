@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Outline | E-Learning Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>E-Learning Platform</h1>
+        <nav>
+            <a href="#features-section">Features</a>
+            <a href="#courses-section">Courses</a>
+            <a href="course_outline.html">Course Outline</a>
+            <a href="#contact-section">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="course-outline-section">
+            <h2>Course Outline</h2>
+            <div class="course-module">
+                <h3>Module 1: Discovering Your Potential</h3>
+                <ul>
+                    <li>Lesson 1: Embracing Your Uniqueness</li>
+                    <li>Lesson 2: Setting Purpose-Driven Goals</li>
+                    <li>Lesson 3: Overcoming Limiting Beliefs</li>
+                    <li>Lesson 4: Tapping into Your Hidden Talents</li>
+                </ul>
+            </div>
+
+            <div class="course-module">
+                <h3>Module 2: Developing a Growth Mindset</h3>
+                <ul>
+                    <li>Lesson 1: The Power of Growth Mindset</li>
+                    <li>Lesson 2: Embracing Challenges as Opportunities</li>
+                    <li>Lesson 3: Learning from Failures and Mistakes</li>
+                    <li>Lesson 4: Cultivating a Hunger for Lifelong Learning</li>
+                </ul>
+            </div>
+
+            <!-- Add more modules here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 E-Learning Platform. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
